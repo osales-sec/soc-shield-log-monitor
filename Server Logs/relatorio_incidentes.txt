@@ -1,0 +1,10 @@
+============================================================
+          RELATÓRIO DE INCIDENTES DE SEGURANÇA             
+============================================================
+
+[ALERTA CRÍTICO] 2026-09-15 10:15:11 - FAILED_LOGIN - User: admin - IP: 203.0.113.5
+[ALERTA CRÍTICO] 2026-09-15 10:15:13 - FAILED_LOGIN - User: admin - IP: 203.0.113.5
+[ALERTA CRÍTICO] 2026-09-15 10:15:15 - FAILED_LOGIN - User: admin - IP: 203.0.113.5
+[ALERTA CRÍTICO] 2026-09-15 10:20:00 - INVALID_USER - User: root - IP: 198.51.100.12
+
+Total de ameaças detectadas: 4
